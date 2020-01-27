@@ -1,0 +1,8 @@
+Package: foo
+Title: Functions for doing great things
+Version: 0.0.1
+Authors@R: person("Jane","Doe",email="jdoe@uni.edu",role=c("aut","cre"))
+Description: Contains amazing functions for doing amazing things.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
